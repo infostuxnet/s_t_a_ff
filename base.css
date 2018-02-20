@@ -268,8 +268,8 @@ main {
 
 .details__img {
 	position: absolute;
-	top: 10vh;
-	right: 15vw;
+	top: 15vh;
+	right: 10vw;
 	height: 80vh;
 }
 
