@@ -23,7 +23,7 @@
             <div class="details__price"></div>
             <p class="details__description"></p>
             <button class="details__addtocart"></button>
-			<button class="details__close"><svg class="icon icon--cross"><use xlink:href="#icon-cross"></use></svg></button>
+			<button class="details__close"><svg class="icon icon--cross"><a href="link_para direccionamiento" class="product-image"><img src="http://www.machupicchu-brasil.biz/wp-content/uploads/2018/02/nulo.png" alt="" width="30" height="30" alt=" " /></a>
             <button class="details__magnifier"><svg class="icon icon--magnifier"><use xlink:href="#icon-magnifier"></use></svg></button>
             `;
 
