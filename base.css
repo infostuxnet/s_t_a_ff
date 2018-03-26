@@ -199,8 +199,8 @@ main {
 
 .product__title {
 	position: relative;
-	margin: 0.5em 0 0;
-	font-size: 1.75em;
+	margin: -2em 0 0;
+	font-size: 2.75em;
 	color: var(--color-product-title);
 	font-family: "Playfair Display", serif;
 	font-weight: 700;
